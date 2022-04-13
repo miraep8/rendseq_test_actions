@@ -1,0 +1,7 @@
+numpy
+os
+pandas
+scipy
+matplotlib
+argparse
+setuptools
